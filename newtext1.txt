@@ -1,3 +1,8 @@
 Developer changes
+<<<<<<< HEAD
 main changes 
 main changes
+=======
+
+sdfjgysfjsgydfgsdh
+>>>>>>> Developer
